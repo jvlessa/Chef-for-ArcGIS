@@ -9,7 +9,7 @@
 
 ## Creating Recipe
 - The command: ```knife cookbook create cookbookname``` was removed on old versions. 
-- Than, we need to download the ChefDK and run another one;
+- Now we need to download the ChefDK [(.Msi File)](https://packages.chef.io/files/stable/chefdk/3.3.23/windows/2012r2/chefdk-3.3.23-1-x64.msi) and run the command: ```chef generate cookbook cookbookname```;
 
 1. ```curl -s https://omnitruck.chef.io/install.sh |bash -s -- -P chefdk```
 
