@@ -8,7 +8,9 @@
 - If it's not, you must puth the folder "bin" and "embedded" from the installation directory on Windows PATH Variable;
 
 ## Creating Recipe
-The command: ```knife cookbook create cookbookname``` was removed. Than, we need to download the ChefDK and run another one;
+- The command: ```knife cookbook create cookbookname``` was removed on old versions. 
+- Than, we need to download the ChefDK and run another one;
+
 1. ```curl -s https://omnitruck.chef.io/install.sh |bash -s -- -P chefdk```
 
 ## Schema 
