@@ -2,8 +2,9 @@
 
 [Explanation Video](https://youtu.be/n0JfiEazCX4)
 
-Cookbooks ==> Recipes ==> Roles
-ArcGIS Enterprise ==> Install ArcGIS Server ==> GeoAnalitycs Server 
+- Cookbooks ==> Recipes ==> Roles
+- ArcGIS Enterprise ==> Install ArcGIS Server ==> GeoAnalitycs Server
+
 [Chef Client](https://downloads.chef.io/chef/14.5.33#windows)
 
 [Downloads](https://downloads.chef.io/chefdk/)
