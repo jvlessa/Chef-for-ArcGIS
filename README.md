@@ -23,6 +23,9 @@
 ## Runner 
 Run the command: ```chef-solo --override-runlist "recipe[joao::default]"```
 
+## Possible Errors 
+#### chef-client doesn't have administrator privileges on node MACHINENAME
+
 ## Links 
 [Chef Client Download](https://downloads.chef.io/chef/14.5.33#windows)
 
