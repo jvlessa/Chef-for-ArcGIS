@@ -9,7 +9,9 @@
 
 ## Creating Recipe
 - The command: ```knife cookbook create cookbookname``` was removed from new versions. 
-- Now we need to download the ChefDK [(.Msi File)](https://packages.chef.io/files/stable/chefdk/3.3.23/windows/2012r2/chefdk-3.3.23-1-x64.msi) and run the command: ```chef generate cookbook cookbookname```;
+- Now we need to download the ChefDK [(.Msi File)](https://packages.chef.io/files/stable/chefdk/3.3.23/windows/2012r2/chefdk-3.3.23-1-x64.msi);
+- Install it (no need of fancy configurations);
+ -After installation, go to the folder you want (C:/chef/) and run the command: ```chef generate cookbook cookbookname```;
 
 ## Schema 
 - Cookbooks ==> Recipes ==> Roles
