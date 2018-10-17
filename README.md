@@ -1,9 +1,9 @@
 # Chef Client for ArcGIS
 
 ## Installation
-- Download Chef Client (Windows .MSI);
+- Download Chef Client [(Windows .MSI)](https://downloads.chef.io/chef/14.5.33#windows);
 - Install it (no need of fancy configurations);
-- Watch that the setup created a folder called <b>"chef"</b> on C drive;
+- Notice that the setup created a folder called <b>"chef"</b> on C drive;
 
 ## Eschema 
 - Cookbooks ==> Recipes ==> Roles
