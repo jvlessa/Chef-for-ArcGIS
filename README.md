@@ -1,5 +1,7 @@
 # Chef Client for ArcGIS
 
+<img src="https://github.com/jvlessa/Chef-for-ArcGIS/blob/master/repologo.png">
+
 ## Installation
 - Download Chef Client [(Windows .MSI)](https://downloads.chef.io/chef/14.5.33#windows);
 - Install it (no need of fancy configurations);
