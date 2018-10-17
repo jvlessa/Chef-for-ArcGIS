@@ -8,7 +8,7 @@
 - If it's not, you must puth the folder "bin" and "embedded" from the installation directory on Windows PATH Variable;
 
 ## Creating Recipe
-- The command: ```knife cookbook create cookbookname``` was removed on old versions. 
+- The command: ```knife cookbook create cookbookname``` was removed from new versions. 
 - Now we need to download the ChefDK [(.Msi File)](https://packages.chef.io/files/stable/chefdk/3.3.23/windows/2012r2/chefdk-3.3.23-1-x64.msi) and run the command: ```chef generate cookbook cookbookname```;
 
 ## Schema 
