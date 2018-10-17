@@ -19,6 +19,9 @@
 ## Schema 
 - Cookbooks ==> Recipes ==> Roles
 
+## Runner 
+Run the command: ```chef-solo --override-runlist "recipe[joao::default]"```
+
 ## Links 
 [Chef Client Download](https://downloads.chef.io/chef/14.5.33#windows)
 
