@@ -23,7 +23,7 @@
 - Cookbooks ==> Recipes ==> Roles
 
 ## Runner 
-Run the command: ```chef-solo --override-runlist "recipe[joao::default]"```
+Run the command: ```chef-solo --override-runlist "recipe[cookbookname::default]"```
 
 ## Possible Errors 
 #### chef-client doesn't have administrator privileges on node MACHINENAME
