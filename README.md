@@ -5,7 +5,7 @@
 - Install it (no need of fancy configurations);
 - Notice that the setup created a folder called <b>"chef"</b> on C drive;
 
-## Eschema 
+## Schema 
 - Cookbooks ==> Recipes ==> Roles
 
 ## Links 
